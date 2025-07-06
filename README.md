@@ -1,5 +1,6 @@
 # cadastro-usuario
 CRUD Java com Spring Boot 
+
 🔧 Tecnologias usadas:
 * Java 23 (JDK 23)
 * Spring Boot
